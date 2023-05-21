@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(255, 255, 255);
+  color: darkslategrey;
+}
+
+h1{
+    font-size: 200px;
+}
+
+img{
+    width: 120px;
+}
+
+.em {
+  color: rgb(0, 0, 0);
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+#name {
+  color: brown;
+}
+
+#name:hover {
+    color: cadetblue;
+  }
